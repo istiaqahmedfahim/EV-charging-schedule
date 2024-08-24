@@ -1,0 +1,3 @@
+Car Number,SOC Initial,Preference Slots,Route,Priority,Battery Capacity,Full Charge Range,KM before CS,Required time(If user provide),SOC Final,Required Time (Calculated)
+671212.0,84.0,2.0,1.0,3.0,,,,16.0,80.0,17.0
+7671234.0,21.0,2.0,1.0,3.0,,,,,17.0,20.0
